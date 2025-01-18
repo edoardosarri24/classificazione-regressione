@@ -1,1 +1,3 @@
-Piccoli progetti svolti per il corso di Machine Learning presso l'Università degli Studi di Firenze e riguardanti la regressione, classificazione e utilizzo di multilayer perceptron (MLP).
+Piccoli progetti svolti per il corso di Machine Learning durate la laurea magistrale e presso l'Università degli Studi di Firenze.
+
+I progetti riguardano la regressione lineare, la classificazione lineare e l'utilizzo di multilayer perceptron (MLP) per fare previsioni sul dataset MNIS.
